@@ -3,7 +3,7 @@
 
 import { TestBed, ComponentFixture } from '@angular/core/testing';
 import { CoursesComponent } from './courses.component';
-import { ApiService } from '@monorepo-angular20/utils-common';
+import { ApiService } from '@monorepo-angular/utils-common';
 import { of } from 'rxjs';
 
 describe('CoursesComponent - Tests Simples', () => {

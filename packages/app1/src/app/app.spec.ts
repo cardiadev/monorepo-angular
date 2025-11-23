@@ -3,7 +3,7 @@
 
 import { TestBed } from '@angular/core/testing';
 import { App } from './app';
-import { ApiService } from '@monorepo-angular20/utils-common';
+import { ApiService } from '@monorepo-angular/utils-common';
 import { ActivatedRoute } from '@angular/router';
 import { of } from 'rxjs';
 
